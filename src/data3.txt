@@ -1,0 +1,11 @@
+# History Theme
+H;"This president delivered the Gettysburg Address";LINCOLN
+H;"Ancient wonder of the world in Egypt";PYRAMID
+H;"Empire that built the Colosseum";ROMAN
+H;"War that ended in 1945";WORLDWARTWO
+H;"Greek philosopher who taught Aristotle";PLATO
+V;"First European explorer to reach India by sea";DAGAMA
+V;"Ancient trade route connecting East and West";SILKROAD
+V;"City where the Berlin Wall fell in 1989";BERLIN
+V;"Empire ruled by Genghis Khan";MONGOL
+V;"First civilization to develop writing";SUMERIAN

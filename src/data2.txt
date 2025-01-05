@@ -1,0 +1,11 @@
+# Nature Theme
+H;"This gas is essential for photosynthesis";CARBONDIOXIDE
+H;"The study of living organisms and their interactions";ECOLOGY
+H;"Earth's protective ozone layer is found in this atmospheric layer";STRATOSPHERE
+H;"Process by which plants convert sunlight into energy";PHOTOSYNTHESIS
+H;"The largest living organism on Earth is this type of tree";SEQUOIA
+V;"The process of water changing from liquid to gas";EVAPORATION
+V;"A community of organisms and their environment";ECOSYSTEM
+V;"The most abundant gas in Earth's atmosphere";NITROGEN
+V;"Type of rock formed from cooled magma";IGNEOUS
+V;"Natural process of breaking down organic matter";DECOMPOSITION

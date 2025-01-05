@@ -1,0 +1,11 @@
+# Sports Theme
+H;"Une partie de hockey règlementaire dure _______  minutes";soixante
+H; "Au tennis, ce coup ralentit la balle au contact du sol"; amorti
+H; "En Formule 1, c'est le seul endroit où la course se déroule dans les rues d'une ville"; Monaco
+H; " Ce gardien de but a remporté 551 victoires en saison régulière dans la LNH, un record(son prénom) "; Patrick
+H; "Pays d'origine d'Ayrton Senna, décédé en mai 1994"; Bresil
+V; "En 1995, ce cycliste espagnol remportait son 5ième tour de France consécutif"; Indurain
+V; "Au baseball, un frappeur réussit un ______ lorsqu'il expédie la balle par dessus la clôture" ;Circuit
+V; "Pour être déclarée prise, la base se baseball doit passer au dessus du ______ "; Marbre
+V;" Surnommé Monsieur Octobre, il est élu Temple de la renommée du baseball majeur en 1993";Jackson
+V; " En Février 1993, ce tennisman américain décédait du Sida à l'âge de  49 ans "; ASHE
